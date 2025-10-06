@@ -7,9 +7,9 @@
   "background_color": "#2596BE",
   "theme_color": "#2596BE",
   "icons": [
-    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/master/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/master/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/master/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
-    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/master/monochrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "monochrome" }
+    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/refs/heads/master/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/refs/heads/master/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/refs/heads/master/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "https://raw.githubusercontent.com/ihcsof/laboro-pwa-assets/refs/heads/master/monochrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "monochrome" }
   ]
 }
